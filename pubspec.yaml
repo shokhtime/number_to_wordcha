@@ -1,5 +1,5 @@
 name: number_to_wordcha
-description: A starting point for Dart libraries or applications.
+description: A Dart package that converts numerical values into their word equivalents in the Uzbek language.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
@@ -10,6 +10,9 @@ environment:
 dependencies:
   # path: ^1.8.0
 
+# qo'shilgan maydonlar
+homepage: https://github.com/shokhtime/number_to_wordcha
+repository: https://github.com/shokhtime/number_to_wordcha
 
 dev_dependencies:
   lints: ^3.0.0
